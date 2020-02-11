@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+}
+
+#footer {
+    width: 100vw;
+    height: 20vh;
+    background-color: aquamarine;
+    display: flex;
+    position: fixed;
+    bottom: 0;
+}
