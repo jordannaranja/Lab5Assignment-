@@ -1,0 +1,21 @@
+#header{
+    height: 10vh;
+    width: 100vw;
+    background-color: cyan;
+    display:flex
+
+}
+#box1{
+    height: 100px;
+    width: 50px;
+    background-color: darkgreen;
+    display: flex;
+}
+
+#box2{
+    height: 100px;
+    width: 50px;
+    justify-content: center;
+    background: darkmagenta;
+
+}
