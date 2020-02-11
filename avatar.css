@@ -5,6 +5,7 @@
     color:white;
     display:flex;
     justify-content: space-evenly;
+    margin-top:100px;
 }
 
 #avatar_image{
